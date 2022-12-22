@@ -25,11 +25,14 @@
   
   .logo-container {
     flex: 1;
+     background-color: #ecf7e5;
   }
   
   .logo {
     font-size: 30px;
     color: #4dbf00;
+    outline: #4dbf00;
+    box-shadow: 1px 1px 1px 5px rgb(108, 103, 103);
   }
   
   .menu-container {
